@@ -1,0 +1,9 @@
+# Python virtual environments
+ece4076_env/
+.venv/
+venv/
+env/
+ENV/
+
+# Virtual environment metadata
+pyvenv.cfg
